@@ -3,7 +3,7 @@
 I am a rising senior Computer Science student at SUNY Albany minoring Mathematics and pursuing Masters of Science as a combined degree. I am an aspiring Backend Developer and I love expanding my horizon in technology,
 
 - 🏫 I am currently studying at <a href="https://www.albany.edu/">SUNY at Albany</a>.
-- 🌱 I’m currently learning Mobile App Development (Flutter, Xamarin), Computer Communication Networks and Database Systems.
+- 🌱 I’m currently learning Mobile App Development (Flutter, Android)
 - 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/dolunay-dagci-1a2b121b0/">Linkedin</a>!
 - ⚡ Fun fact: Dolunay means full moon in Turkish. Huge weeb ┌( ಠ‿ಠ)┘ uwu ✨
 - 👯 I’m looking for a SWE internship or a Full-time opportunity!
