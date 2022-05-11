@@ -6,7 +6,7 @@ I am a rising senior Computer Science student at SUNY Albany minoring Mathematic
 - 🌱 I’m currently learning Mobile App Development (Flutter, Android)
 - 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/dolunay-dagci-1a2b121b0/">Linkedin</a>!
 - ⚡ Fun fact: Dolunay means full moon in Turkish. Huge weeb ┌( ಠ‿ಠ)┘ uwu ✨
-- 👯 I’m looking for a SWE internship or a Full-time opportunity!
+- 👯 I’m looking for a SWE Full-time opportunity!
 - 🔭 I’m currently a Club Facilitator at Girls Who Code - Capital Region!
 - 💅 Pronouns: She/her/hers
 
