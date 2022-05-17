@@ -1,6 +1,6 @@
 ### Hi! I'm <a href="https://dolnuea.github.io/">Luna</a> 🌝✨
 
-I am a rising senior Computer Science student at SUNY Albany minoring Mathematics and pursuing Masters of Science as a combined degree. I am an aspiring Backend Developer and I love expanding my horizon in technology,
+I am a Master's Computer Science student at SUNY Albany. I am an aspiring software engineer and I love expanding my horizon in technology,
 
 - 🏫 I am currently studying at <a href="https://www.albany.edu/">SUNY at Albany</a>.
 - 🌱 I’m currently learning Mobile App Development (Flutter, Android)
