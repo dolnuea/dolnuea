@@ -8,8 +8,7 @@ I am a rising senior Computer Science student at SUNY Albany minoring Mathematic
 - ⚡ Fun fact: Dolunay means full moon in Turkish. Huge weeb ┌( ಠ‿ಠ)┘ uwu ✨
 - 👯 I’m looking for a SWE Full-time opportunity!
 - 🔭 I’m currently a Club Facilitator at Girls Who Code - Capital Region!
-- 💅 Pronouns: She/her/hers
-
+- 💅 Pronouns: She/her
 ### Languages
 
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
