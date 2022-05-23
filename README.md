@@ -23,7 +23,7 @@ I am a Master's Computer Science student at SUNY Albany. I am an aspiring softwa
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
+![MS SQL Server](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React&logoColor=007396)
