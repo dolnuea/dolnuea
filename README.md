@@ -3,12 +3,11 @@
 I am a Master's Computer Science student at SUNY Albany. I am an aspiring software engineer and I love expanding my horizon in technology,
 
 - 🏫 I am currently studying at <a href="https://www.albany.edu/">SUNY at Albany</a>.
-- 🌱 I’m currently learning Mobile App Development (Flutter, Android)
+- 🌱 I’m currently improving my Mobile App Development (Flutter, Android) and Web Development skills.
 - 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/dolunay-dagci-1a2b121b0/">Linkedin</a>!
-- ⚡ Fun fact: Dolunay means full moon in Turkish. Huge weeb ┌( ಠ‿ಠ)┘ uwu ✨
+- ⚡ Fun fact: Dolunay means full moon in Turkish.
 - 👯 I’m looking for a SWE Full-time opportunity!
-- 🔭 I’m currently a Club Facilitator at Girls Who Code - Capital Region!
-- 💅 Pronouns: She/her
+
 ### Languages
 
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
