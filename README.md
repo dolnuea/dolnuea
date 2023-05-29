@@ -1,8 +1,9 @@
 ### Hi! I'm <a href="https://dolnuea.github.io/">Dolunay (Luna)</a> 🌝✨
 
-I am a Software Engineer. I recently graduated with a Master's degree in Computer Science at SUNY Albany.
+I am a Software Engineer.
 
-- 🏫 I am currently a Software Engineer at HRI.
+- 🏫 Master of Science in Computer Science at <a href="https://www.albany.edu/">SUNY at Albany</a>.
+- 👩‍💻 I am currently a Software Engineer at Health Research Inc.
 - 🌱 I’m currently learning Machine Learning (specialized in deep learning).
 - ⚡ Fun fact: Dolunay means full moon in Turkish.
 
