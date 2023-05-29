@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### GitHub Stats 📈
 <p align="center">
 <a href="https://github.com/dolnuea">
- <img src="https://github-readme-stats.vercel.app/api?username=dolnuea&show_icons=true&hide=stars&hide_border=true" alt="Luna's GitHub Stats" />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=dolnuea&show_icons=true&hide=stars&hide_border=true" alt="Luna's GitHub Stats" /> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolnuea&layout=compact&hide_border=true" alt="Luna's Language Stats" />
 </a>
 </p>
