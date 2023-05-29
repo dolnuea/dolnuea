@@ -7,7 +7,7 @@ I recently graduated with a Master's degree in Computer Science from SUNY Albany
 - 🎓 Bachelor of Science and Master of Science in Computer Science at <a href="https://www.albany.edu/">SUNY at Albany</a> and <a href="https://www.codepath.org/">CodePath</a> Alumni
 - 💼 I am currently a Software Engineer at <a href="https://www.healthresearch.org/">Health Research Inc</a>.
 - 🌱 Learning Machine Learning (specialized in deep learning) on Coursera!
-- ❤️ Former Girls Who Code (Albany) Capital Region Club Facilitator where I taught young women coding.
+- ❤️ Former <a href="https://girlswhocode.com/">Girls Who Code</a> (Albany) Capital Region Club Facilitator where I taught young women coding.
 - ⚡ Fun fact: Dolunay means full moon in Turkish.
 
 <h3 align="left">Connect with me:</h3>
