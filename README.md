@@ -1,10 +1,13 @@
 ### Hi! I'm <a href="https://dolnuea.github.io/">Dolunay (Luna)</a> 🌝✨
 
-I am a Software Engineer.
+Software Engineer | Machine Learning Enthusiast 👩‍💻
 
-- 🏫 Master of Science in Computer Science at <a href="https://www.albany.edu/">SUNY at Albany</a>.
-- 👩‍💻 I am currently a Software Engineer at Health Research Inc.
+I recently graduated with a Master's degree in Computer Science from SUNY Albany. As a passionate software engineer, I'm dedicated to continuously learning and staying up to date with the latest technologies. I'm particularly enthusiastic about exploring the exciting world of machine learning, aiming to create innovative solutions that make a positive impact on people's lives.
+
+- 🎓 Master of Science in Computer Science at <a href="https://www.albany.edu/">SUNY at Albany</a> and <a href="https://www.codepath.org/">CodePath</a> Alumni
+- 💼 I am currently a Software Engineer at Health Research Inc.
 - 🌱 Learning Machine Learning (specialized in deep learning) on Coursera!
+- ❤️ Former Girls Who Code (Albany) Capital Region Club Facilitator where I taught young women coding.
 - ⚡ Fun fact: Dolunay means full moon in Turkish.
 
 <h3 align="left">Connect with me:</h3>
