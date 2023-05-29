@@ -4,7 +4,7 @@ I am a Software Engineer.
 
 - 🏫 Master of Science in Computer Science at <a href="https://www.albany.edu/">SUNY at Albany</a>.
 - 👩‍💻 I am currently a Software Engineer at Health Research Inc.
-- 🌱 I’m currently learning Machine Learning (specialized in deep learning).
+- 🌱 Learning Machine Learning (specialized in deep learning) on Coursera!
 - ⚡ Fun fact: Dolunay means full moon in Turkish.
 
 <h3 align="left">Connect with me:</h3>
