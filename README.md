@@ -96,7 +96,9 @@ I am a Software Engineer. I recently graduated with a Master's degree in Compute
 ### GitHub Stats 📈
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolnuea&show_icons=true&locale=en&layout=compact" alt="dolnuea" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolnuea&show_icons=true&locale=en" alt="dolnuea" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dolnuea" alt="dolnuea" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dolnuea&" alt="dolnuea" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dolnuea&label=Profile%20views&color=0e75b6&style=flat" alt="dolnuea" /> </p>
 
 </p>
