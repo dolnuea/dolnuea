@@ -5,7 +5,7 @@ Software Engineer | Machine Learning Enthusiast 👩‍💻
 I recently graduated with a Master's degree in Computer Science from SUNY Albany. As a passionate software engineer, I'm dedicated to continuously learning and staying up to date with the latest technologies. I'm particularly enthusiastic about exploring the exciting world of machine learning, aiming to create innovative solutions that make a positive impact on people's lives.
 
 - 🎓 Bachelor of Science and Master of Science in Computer Science at <a href="https://www.albany.edu/">SUNY at Albany</a> and <a href="https://www.codepath.org/">CodePath</a> Alumni
-- 💼 I am currently a Software Engineer at <a href="https://www.healthresearch.org/">Health Research Inc</a>.
+- 💼 I am currently a Software Engineer at <a href="https://www.americanexpress.com/">American Express</a>.
 - 🌱 Learning Machine Learning (specialized in deep learning) on Coursera!
 - ❤️ Former <a href="https://girlswhocode.com/">Girls Who Code</a> (Albany) Capital Region Club Facilitator where I taught young women coding.
 - ⚡ Fun fact: Dolunay means full moon in Turkish.
